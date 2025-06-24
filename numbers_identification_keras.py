@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Numbers_identification_keras.ipynb
 
 # Number/Digit identification using Keras via Tensorflow and the MNIST dataset
